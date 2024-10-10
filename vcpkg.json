@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "dependencies": [
+    "cpr",
+    "nlohmann-json",
+    "date"
+  ],
+  "description": "",
+  "name": "elektrum-desktop",
+  "version-string": ""
+}
